@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Run pictures through image specific external optimizers."""
-from __future__ import print_function
+
 
 import os
 import argparse

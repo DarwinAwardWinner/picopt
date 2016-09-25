@@ -1,5 +1,5 @@
 """Walk the directory trees and files and call the optimizers."""
-from __future__ import print_function
+
 import os
 import multiprocessing
 

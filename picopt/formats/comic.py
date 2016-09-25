@@ -1,5 +1,5 @@
 """Optimize comic archives."""
-from __future__ import print_function
+
 
 import os
 import zipfile

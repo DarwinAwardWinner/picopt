@@ -1,5 +1,5 @@
 """Detect file formats."""
-from __future__ import print_function
+
 
 try:
     from PIL import Image

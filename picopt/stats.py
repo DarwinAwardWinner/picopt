@@ -1,6 +1,6 @@
 """Statistics for the optimization operations."""
-from __future__ import division
-from __future__ import print_function
+
+
 import os
 import sys
 
@@ -10,7 +10,7 @@ from .settings import Settings
 if sys.version > '3':
     LongInt = int
 else:
-    LongInt = long
+    LongInt = int
 
 
 ABBREVS = (
